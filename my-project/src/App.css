@@ -9,3 +9,9 @@ body {
 .product {
     background-color: #f3f3f3;
 }
+
+.count {
+    position: relative;
+    top: -30px;
+    left: 20px;
+}
